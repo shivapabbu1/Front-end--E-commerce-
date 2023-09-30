@@ -1,0 +1,11 @@
+.image-slider{
+    width: 126%;
+    height: 60vh;
+    display: grid;
+    position: relative;
+    top: -3.9em;
+    left:-1.5em;
+    z-index: -1;
+    box-shadow: 10px 13px 395px 0px rgba(219,203,203,0.75);
+    transition: imgcall 6s linear;
+  }

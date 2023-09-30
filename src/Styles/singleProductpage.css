@@ -1,0 +1,10 @@
+.card{
+  padding: 1rem 10rem;
+}
+
+@media screen and (max-width:780px) and (min-width:300px){
+  .card{
+    display:flex;
+    padding: auto;
+  }
+}
